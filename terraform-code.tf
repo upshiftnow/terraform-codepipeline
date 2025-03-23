@@ -3,3 +3,5 @@ provider "aws" {
 }
 resource "aws_s3_bucket" "simplilearn_bucket" {
 }
+resource "aws_s3_bucket" "simplilearn_bucket-2" {
+} 
